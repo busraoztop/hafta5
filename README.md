@@ -1,1 +1,3 @@
 # hafta5
+
+açıklama
